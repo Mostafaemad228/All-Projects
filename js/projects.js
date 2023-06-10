@@ -26,7 +26,7 @@ all_projects_data = [
         project_code_link: "https://github.com/Mostafaemad228/Product-Management-System",
     },
     {
-        project_img: "images/projects/icons8-reminders-48",
+        project_img: "images/projects/All_icons/icons8-reminders-48",
         project_name: "Drag and drop todo list",
         project_demo_link: "https://mostafaemad228.github.io/Drag-and-Drop-TodoList/",
         project_code_link: "https://github.com/Mostafaemad228/Drag-and-Drop-TodoList",
