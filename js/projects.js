@@ -9,7 +9,7 @@ $(window).on('load', function () {
 
 // ! ///////////////////////// Projects Data  ///////////////////////////
 
-const all_projects = document.querySelector('.all_projects') 
+const all_projects = document.querySelector('.all_projects')
 
 
 all_projects_data = [
@@ -114,18 +114,18 @@ all_projects_data = [
         project_demo_link: "https://mostafaemad228.github.io/auto_type_effect/",
         project_code_link: "https://github.com/Mostafaemad228/auto_type_effect",
     },
-   
-    
-    
-    
+
+
+
+
 ];
 
 
-let c = 1 ;
+let c = 1;
 function displayAllProjectsItems() {
     all_projects.innerHTML = ``
     for (let i = 0; i < all_projects_data.length; i++) {
-        all_projects.innerHTML +=`
+        all_projects.innerHTML += `
                 <div class=" AllProject_item mt-2 mb-3">
                     <!--////////// start ///////////-->
                     <div class="d-flex ">
