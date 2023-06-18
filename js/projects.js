@@ -38,6 +38,12 @@ all_projects_data = [
         project_code_link: "https://github.com/Mostafaemad228/calculator",
     },
     {
+        project_img: "images/projects/All_icons/icons8-books-48.png",
+        project_name: "Sozlar Books Store",
+        project_demo_link: "https://mostafaemad228.github.io/calculator/",
+        project_code_link: "https://github.com/Mostafaemad228/calculator",
+    },
+    {
         project_img: "images/projects/All_icons/icons8-think-60.png",
         project_name: "guess number game",
         project_demo_link: "https://mostafaemad228.github.io/guess_the_number_game/",
