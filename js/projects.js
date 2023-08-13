@@ -13,12 +13,7 @@ const all_projects = document.querySelector('.all_projects')
 
 
 all_projects_data = [
-    {
-        project_img: "images/projects/All_icons/icons8-quran-64.png",
-        project_name: "Azkar Ap",
-        project_demo_link: "https://mostafaemad228.github.io/Azkar/",
-        project_code_link: "https://github.com/Mostafaemad228/Azkar",
-    },
+    
     {
         project_img: "images/projects/All_icons/icons8-product-50.png",
         project_name: "Product Managment System",
@@ -38,12 +33,6 @@ all_projects_data = [
         project_code_link: "https://github.com/Mostafaemad228/calculator",
     },
     {
-        project_img: "images/projects/All_icons/icons8-books-48.png",
-        project_name: "Sozlar Books Store",
-        project_demo_link: "https://sozleregypt.com/sozler/public/ar",
-        project_code_link: "https://github.com/Mostafaemad228",
-    },
-    {
         project_img: "images/projects/All_icons/icons8-think-60.png",
         project_name: "guess number game",
         project_demo_link: "https://mostafaemad228.github.io/guess_the_number_game/",
@@ -61,10 +50,20 @@ all_projects_data = [
         project_demo_link: "https://mostafaemad228.github.io/coffee-website/",
         project_code_link: "https://github.com/Mostafaemad228/coffe-website",
     }, {
+        project_img: "images/projects/All_icons/icons8-quran-64.png",
+        project_name: "Azkar Ap",
+        project_demo_link: "https://mostafaemad228.github.io/Azkar/",
+        project_code_link: "https://github.com/Mostafaemad228/Azkar",
+    }, {
         project_img: "images/projects/All_icons/icons8-app-64.png",
         project_name: "App webSite",
         project_demo_link: "https://mostafaemad228.github.io/elmanar-app/",
         project_code_link: "https://github.com/Mostafaemad228/elmanar-app",
+    }, {
+        project_img: "images/projects/All_icons/icons8-books-48.png",
+        project_name: "Sozlar Books Store",
+        project_demo_link: "https://sozleregypt.com/sozler/public/ar",
+        project_code_link: "https://github.com/Mostafaemad228",
     },
     {
         project_img: "images/projects/All_icons/icons8-age-64.png",
